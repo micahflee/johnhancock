@@ -1,0 +1,4 @@
+Search a file for file signatures, to guess what format it is.
+
+Using the file signatures from here:
+https://secure.wikimedia.org/wikipedia/en/wiki/List_of_file_signatures
